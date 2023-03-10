@@ -1,0 +1,62 @@
+#lista-modal{
+    width:220px;
+}
+
+#div_1{
+    float: left;
+}
+
+#div_2{
+    float: right;
+}
+
+#yape {
+    border-radius: 6px ;
+    border: 1px solid #000000;
+}
+
+#plin{
+    border-radius: 6px ;
+    border: 1px solid #000000;
+}
+
+#yape_logo{
+    border-radius: 6px ;
+    border: 1px solid #000000;
+}
+
+.yape:hover{
+    box-shadow: 5px 5px 80px rgba(0,0,0,0.4);
+	transform: translateY(-3%);
+}
+
+#plin_logo{
+    border-radius: 6px ;
+    border: 1px solid #000000;
+}
+
+.plin:hover{
+    box-shadow: 5px 5px 80px rgba(0,0,0,0.4);
+	transform: translateY(-3%);
+}
+
+#bcp_logo{
+    border-radius: 6px ;
+    border: 1px solid #000000;
+}
+
+.bcp:hover{
+    box-shadow: 5px 5px 80px rgba(0,0,0,0.4);
+	transform: translateY(-3%);
+}
+
+#bbva_logo{
+    border-radius: 6px ;
+    border: 1px solid #000000;
+}
+
+.bbva:hover{
+    box-shadow: 5px 5px 80px rgba(0,0,0,0.4);
+	transform: translateY(-3%);
+}
+

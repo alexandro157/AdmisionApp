@@ -1,0 +1,11 @@
+#ing_area {
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #ee2356;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}

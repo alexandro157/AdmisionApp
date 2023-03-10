@@ -1,0 +1,33 @@
+img.card-img{
+  width: 100%;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  background: linear-gradient(rgba(5,7,12,0.75), rgba(5,7,12,0.75)),
+
+}
+.button.btn.btn-custom-azul.m-2{
+  background-color: aqua;
+}
+
+ul.list-unstyled{
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .app-simulacro-container .app-simulacro-lista {
+    padding-left: 0;
+    padding-right: 0;
+    width: 5050%;
+  }
+}
+
+
+i.bi.bi-arrow-right-circle{
+  height: 10%;
+  width: 20%;
+}

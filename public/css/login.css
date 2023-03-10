@@ -1,0 +1,70 @@
+
+body {
+    block-size: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgba(5,7,12,0.75), rgba(5,7,12,0.75)), 
+     url(../img/admin.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    max-width: 100%;
+    max-height: 1320px;
+          
+}
+
+div.card{
+    right: 140%;
+    background-color: rgba(255, 255, 255, 0.658);
+    padding: auto;
+}
+
+form.formulario {
+	background-size: cover;
+    margin: 30px;
+    padding: 20px;
+    margin-inline-start:70%;
+    width: auto;
+    height: auto;
+    padding: auto;
+       
+
+}
+
+
+img.img-fluid{
+    margin-inline-start: 38%;
+    inline-size: 20%;
+    block-size: 100%;
+    padding: auto;
+  
+
+}
+h1{
+    text-align: center;
+
+}
+
+input.form-control{
+    background-color: rgb(185, 164, 164);
+}
+
+div.card{
+    margin: auto;
+    padding: 20px;
+}
+
+button.btn.btn-primary{
+    margin-inline-start: 30px;
+    padding: 7px 56px;
+}
+a.link{
+    margin-inline-start: 80px;
+    
+   
+}
+
+
+
